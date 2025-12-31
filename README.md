@@ -1,0 +1,1 @@
+# Receipt_Formation_project.c
